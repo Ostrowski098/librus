@@ -1,2 +1,0 @@
-# librus
-GitHub Pages
